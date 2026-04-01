@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=B.Tech+CSE+Student;AI+Enthusiast;Full+Stack+Developer;Learning+by+Doing" alt="Typing SVG" />
 </div>
 
-* 🤰 Pronouns: **He/Him**
+* 🙎‍♂️ Pronouns: **He/Him**
 
 * 🔭 I’m currently working on: Projects and collaborations that solve real-world problems.
 
