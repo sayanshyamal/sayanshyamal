@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Sayan Shyamal**
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=B.Tech+CSE+Student;AI+Enthusiast;Full+Stack+Developer;Learning+by+Doing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=100&lines=B.Tech+CSE+Student;Full+Stack+Developer;Video+Editor;Learning+by+Doing" alt="Typing SVG" />
 </div>
 
 * 🙎‍♂️ Pronouns: **He/Him**
